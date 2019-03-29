@@ -3,8 +3,6 @@
 Akyia est une application à visée informative: elle héberge une base de données de professionnels en psychologie qui ont marqué l'histoire de cette discipline.
 <p align="center">
   <img width="280" height="500" src="">
-</p>
-<p align="center">
   <img width="280" height="500" src="">
 </p>
 
