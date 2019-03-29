@@ -23,5 +23,5 @@ L'appel à l'API Rest se fait via un lien. Cette API a été concue en prenant e
 ### Utiliser GitFlow
 Nous avons utilisé GitFlow sur la très courte période qu'a été la dernière journée avant le rendu.
 <p align="center">
-  <img width="280" height="500" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/commit.JPG">
+  <img width="280" height="500" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/commit.jpg">
 </p>
