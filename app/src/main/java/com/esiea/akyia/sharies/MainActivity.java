@@ -1,5 +1,4 @@
 package com.esiea.akyia.sharies;
-// j'aime mon copain
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
