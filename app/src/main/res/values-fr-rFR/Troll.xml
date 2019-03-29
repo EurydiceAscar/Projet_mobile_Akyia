@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akyia</string>
+    <string name="ajoutdette">ajouter une dette</string>
+    <string name="ajoutevenement">ajouter un evenement</string>
+    <string name="titrecredits">Crédits</string>
+    <string name="boutoncredits">Cette application est vraiment trop bien !</string>
+    <string name="test">test</string>
+    <string name="boutonparametresanglais">Anglais</string>
+    <string name="boutonparametresfrancais">Français</string>
+    <string name="Settings">Paramètres</string>
+    <string name="dl">téléchargement</string>
+    <string name="API">https://raw.githubusercontent.com/EurydiceAscar/AKYIA/master/psycho.json</string>
+</resources>

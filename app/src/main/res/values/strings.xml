@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sharies</string>
+    <string name="ajoutdette">ajouter une dette majolie</string>
+    <string name="ajoutevenement">ajouter un evenement bitch</string>
+    <string name="titrecredits">Crédits</string>
+    <string name="creditmessage">Cette application a été développée par \nTim Colin et Allan Pau</string>
+    <string name="boutoncredits">Cette application est!</string>
+    <string name="test">test</string>
+    <string name="boutonparametresanglais">Anglais</string>
+    <string name="boutonparametresfrancais">Français</string>
+    <string name="Settings">Paramètres</string>
+    <string name="dl">téléchargement</string>
+    <string name="API">"https://api.themoviedb.org/3/movie/upcoming?api_key=7b358b3487f8168783db21764c6f1a2e&amp;language=fr-FR&amp;page=1"</string>
+</resources>

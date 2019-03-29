@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/buttonparametres"
+        android:title="Parametres"
+        app:actionProviderClass="android.support.v7.app.MediaRouteActionProvider"
+         />
+    <item
+        android:id="@+id/buttoncredits"
+        android:title="Crédits"
+        app:actionProviderClass="android.support.v7.app.MediaRouteActionProvider"
+         />
+</menu>

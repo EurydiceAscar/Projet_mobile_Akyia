@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sharies</string>
+    <string name="ajoutdette">Add a dept</string>
+    <string name="ajoutevenement">Add an event</string>
+    <string name="titrecredits">Credits</string>
+    <string name="creditmessage">This application has been fucking developed by \nTim Colin and Allan Pau</string>
+    <string name="boutoncredits">This application is really good !</string>
+    <string name="test">test</string>
+    <string name="boutonparametresanglais">English</string>
+    <string name="boutonparametresfrancais">French</string>
+    <string name="Settings">Settings</string>
+    <string name="dl">download</string>
+    <string name="API">https://api.themoviedb.org/3/movie/upcoming?api_key=7b358b3487f8168783db21764c6f1a2e&amp;language=en-US&amp;page=1</string>
+
+</resources>
