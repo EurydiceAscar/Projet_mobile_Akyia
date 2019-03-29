@@ -3,8 +3,8 @@
 ## Présentation
 Akyia est une application à visée informative: elle héberge une base de données de professionnels en psychologie qui ont marqué l'histoire de cette discipline.
 <p align="center">
-  <img width="280" height="500" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/Accueil.jpg">
-  <img width="280" height="500" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/Freud.jpg">
+  <img width="280" height="500" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/Cr%C3%A9dits.jpg">
+  <img width="280" height="500" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/Language.jpg">
 </p>
 ## Consignes et contraintes du projet
 Ce projet présentait plusieurs consignes à respecter données en début de projet, soit le 22 février 2019, 1 mois avant le rendu de ce présent travail.
