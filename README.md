@@ -25,3 +25,5 @@ Nous avons utilisé GitFlow sur la très courte période qu'a été la dernière
 <p align="center">
   <img width="440" height="112" src="https://github.com/EurydiceAscar/Projet_mobile_Akyia/blob/master/readmepictures/commit.jpg">
 </p>
+
+Eurydice ASCAR
