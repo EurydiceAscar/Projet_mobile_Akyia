@@ -7,6 +7,7 @@ Akyia est une application à visée informative: elle héberge une base de donn�
 <p align="center">
   <img width="280" height="500" src="">
 </p>
+
 ## Consignes et contraintes du projet
 Ce projet présentait plusieurs consignes à respecter données en début de projet.
 
