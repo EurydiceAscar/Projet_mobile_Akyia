@@ -27,3 +27,4 @@ Nous avons utilisé GitFlow sur la très courte période qu'a été la dernière
 </p>
 
 Eurydice ASCAR
+
